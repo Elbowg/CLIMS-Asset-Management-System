@@ -48,7 +48,7 @@ The system streamlines **asset registration**, **tracking**, **assignment**, **m
 |                     | Business Analyst     | Requirements gathering                        |
 |                     | Assistant Developer  | Support backend/frontend integration          |
 
-> **Tip:** Replace the placeholders with your actual **team members' names**.
+
 
 ---
 
